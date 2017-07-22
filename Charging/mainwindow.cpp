@@ -85,8 +85,8 @@ void MainWindow::on_pushButtonCalculate_clicked()
 }
 #undef CBchrg
 #undef CBbttr
-#undef SBchrg
-#undef SBbttr
+#undef DSBchrg
+#undef DSBbttr
 #undef SBt
 #undef SBf
 

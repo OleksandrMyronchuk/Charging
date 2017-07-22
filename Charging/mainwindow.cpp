@@ -87,6 +87,8 @@ void MainWindow::on_pushButtonCalculate_clicked()
 #undef CBbttr
 #undef SBchrg
 #undef SBbttr
+#undef SBt
+#undef SBf
 
 void MainWindow::on_pushButtonAbout_clicked()
 {
